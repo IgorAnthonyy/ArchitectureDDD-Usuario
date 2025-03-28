@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArchitectureDDDUsuario.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+300e4a64768aec2d5da9786749397e360816779c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fddb6c13cb1a47192c160ee93c574b4b2507139f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArchitectureDDDUsuario.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArchitectureDDDUsuario.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
