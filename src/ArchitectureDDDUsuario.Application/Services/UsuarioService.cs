@@ -28,4 +28,14 @@ public class UsuarioService
     {
         return await _usuarioRepository.ObterTodosAsync();
     }
+
+    public async Task DeletarUsuarioAsync(string id)
+    {
+        await _usuarioRepository.RemoverAsync(id);
+    }
+
+    public async Task AtualizarUsuarioAsync(Usuario usuario)
+    {
+        await _usuarioRepository.AtualizarAsync(usuario);
+    }
 }

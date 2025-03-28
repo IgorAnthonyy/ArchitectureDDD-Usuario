@@ -36,4 +36,16 @@ public class UsuariosController : ControllerBase
     {
         return await _usuarioService.ListarUsuariosAsync();
     }
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeletarUsuario(string id)
+    {
+        await _usuarioService.DeletarUsuarioAsync(id);
+        return NoContent();
+    }
+    [HttpPut]
+    public async Task<IActionResult> AtualizarUsuario([FromBody] Usuario usuario)
+    {
+        await _usuarioService.AtualizarUsuarioAsync(usuario);
+        return NoContent();
+    }
 }
