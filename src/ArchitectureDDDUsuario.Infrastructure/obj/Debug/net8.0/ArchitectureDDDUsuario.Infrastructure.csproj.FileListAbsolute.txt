@@ -1,0 +1,16 @@
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\obj\Debug\net8.0\ArchitectureDDDUsuario.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\obj\Debug\net8.0\ArchitectureDDDUsuario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\obj\Debug\net8.0\ArchitectureDDDUsuario.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\obj\Debug\net8.0\ArchitectureDDDUsuario.Infrastructure.AssemblyInfo.cs
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\obj\Debug\net8.0\ArchitectureDDDUsuario.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\obj\Debug\net8.0\ArchitectureDDDUsuario.Infrastructure.sourcelink.json
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\bin\Debug\net8.0\ArchitectureDDDUsuario.Infrastructure.deps.json
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\bin\Debug\net8.0\ArchitectureDDDUsuario.Infrastructure.dll
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\bin\Debug\net8.0\ArchitectureDDDUsuario.Infrastructure.pdb
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\bin\Debug\net8.0\ArchitectureDDDUsuario.Domain.dll
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\bin\Debug\net8.0\ArchitectureDDDUsuario.Domain.pdb
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\obj\Debug\net8.0\Architec.DE4A6F79.Up2Date
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\obj\Debug\net8.0\ArchitectureDDDUsuario.Infrastructure.dll
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\obj\Debug\net8.0\refint\ArchitectureDDDUsuario.Infrastructure.dll
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\obj\Debug\net8.0\ArchitectureDDDUsuario.Infrastructure.pdb
+C:\Users\IgorAnthony\Desktop\Igor Anthony\ArchitectureDDD-Usuario\src\ArchitectureDDDUsuario.Infrastructure\obj\Debug\net8.0\ref\ArchitectureDDDUsuario.Infrastructure.dll

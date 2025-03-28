@@ -1,0 +1,6 @@
+@ArchitectureDDDUsuario.Api_HostAddress = http://localhost:5110
+
+GET {{ArchitectureDDDUsuario.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
